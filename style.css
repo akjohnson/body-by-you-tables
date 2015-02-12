@@ -4,7 +4,12 @@ Table code from Pure:
 
 http://purecss.io/
 
-Modified as needed.
+Modified as needed.  The idea is to:
+
+* Have cleanly bordered tables
+* Allow page break divs to tell the printer to make one table per page
+* Have lightly gray shaded table headers
+* Have dividing lines between days in tables
 
 */
 
